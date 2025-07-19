@@ -18,3 +18,4 @@ the objective  of the project is to design and implement a basic Speech-to-Text 
 
 # OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/4acc6250-5b86-4879-a54a-56510c29639c)
